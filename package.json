@@ -5,6 +5,7 @@
   "scripts": {},
   "private": true,
   "dependencies": {
+    "@nx-extend/docusaurus": "^4.0.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-native": "~0.76.3",
