@@ -1,0 +1,14 @@
+{
+  "name": "@bulldogs/mobile",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "vite": "*",
+    "@vitejs/plugin-react": "*",
+    "@nx/vite": "*",
+    "esbuild": "*"
+  },
+  "devDependencies": {}
+}
